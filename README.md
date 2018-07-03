@@ -14,7 +14,12 @@ The days selection is added on the right pane. This can help us to one who wants
 
 ## Solution 1.2:
 
-<iframe src="https://public.tableau.com/shared/46TPZH2XX?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/assingment_badi/Question1-aggregation?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
 
-sheet 7:
-<iframe src="https://public.tableau.com/views/assingment_badi/Sheet7?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
+The aggregation selection is added on the right pane. Depends on the need, one can choose daily, weekly and monthly aggregation.
+
+# Question 2:
+Repeat the exercise with rooms.
+
+## Solution 2.1:
+<iframe src="https://public.tableau.com/views/assingment_badi/Question2-dayfilters?:embed=y&:display_count=yes&publish=yes" width="1000" height="500"></iframe>
