@@ -69,8 +69,8 @@ Imagine that we wanted some insights about gender, age, and occupation of our us
 
 ## Solution 6:
 
-<iframe src="https://public.tableau.com/views/assingment_badi/Sheet8?:embed=y&:display_count=yes&publish=yes width="1000" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/assingment_badi/Question-6?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
                                                                                                                                       
-                                                                                                                                      
+First of all, the ages are calculated from the "Calculated Field". The difference between the birthdate and today is taken. Then, the age bins are created for each 5 year. Two more "Calculated Field"s are used for "Female Population" and "Male Population". Gender, occupation, and age bins are represented in one Tableua sheet. The blue and red colors are given to the women and men populations respectively. Occupation distribution using age bins are colored depends on the occupation. In the inner join version for user and room data sets, there is no user with "Both(3)" occupation option. There is only students and workers. The green and orange colors are given respectively.                                                                                                                                       
 
 
