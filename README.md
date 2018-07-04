@@ -59,8 +59,8 @@ We are interested in the number of rooms per lister. Create a Tableau visualizat
 
 ## Solution 5:
 
-<iframe src="https://public.tableau.com/views/assingment_badi/Sheet7?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
-
+<iframe src="https://public.tableau.com/views/assingment_badi/Question-5?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
+https://public.tableau.com/views/assingment_badi/Question-5?
 In the inner join version for room and user data sets, although we see that the users tend to have only one room, there are some users related to two rooms. In a future analyses, this issue can be focused on in order to see if the users are connected to more than one room when the dates of two creations are close. If the gap between two creation dates of rooms for the same user is not so short, then it might be considered in such a way that the user has a new place to live. Otherwise, there is an important issue to detect the swindlers. In the data we work on for this assignment, and its inner join version, the maximum number of rooms per user is 2. However, I am pretty sure that there will be some users with several rooms in the whole original data.
 
 # Question 6:
