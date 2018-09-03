@@ -1,16 +1,6 @@
 # Answers
 
-link to the live site: https://burcukolbay.github.io/answers/
 
-In the file that is sent by Leticia Castro, the keys to access were as follows:
-
-Public IP address:
-35.190.223.80
-
-Port: 3306
-
-User name:
-readerENOtotn1c7OBf7Yf
 
 In the documentation, it is mentioned that there are 3 tables. However, after I connected with the keys above, I receive 4 tables. The target tables (3) and one named as "recommendations". The "recommendations" table is not used. 
 
